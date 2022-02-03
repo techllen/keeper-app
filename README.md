@@ -1,3 +1,3 @@
 # keeper-app
-A simple task management app based on react framework.
+A simple task management application based on react framework.
 
